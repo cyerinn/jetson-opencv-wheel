@@ -1,5 +1,4 @@
 setup.py
-cv2/__init__.py
 cv2/cv2.cpython-310-aarch64-linux-gnu.so
 opencv_python_gstreamer.egg-info/PKG-INFO
 opencv_python_gstreamer.egg-info/SOURCES.txt
