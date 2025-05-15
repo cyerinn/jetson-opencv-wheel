@@ -1,3 +1,5 @@
 Metadata-Version: 2.4
-Name: opencv-python-gstreamer
+Name: opencv_python_gstreamer
 Version: 4.12.0.dev0
+Summary: Custom OpenCV build with GStreamer for Jetson
+Dynamic: summary
