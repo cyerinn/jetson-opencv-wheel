@@ -1,0 +1,5 @@
+setup.py
+opencv_python_gstreamer.egg-info/PKG-INFO
+opencv_python_gstreamer.egg-info/SOURCES.txt
+opencv_python_gstreamer.egg-info/dependency_links.txt
+opencv_python_gstreamer.egg-info/top_level.txt
